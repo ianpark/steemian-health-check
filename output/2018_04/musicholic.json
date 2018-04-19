@@ -1,0 +1,862 @@
+{
+    "accumulated": [
+        {
+            "start_date": "2018-03-24",
+            "end_date": "2018-03-31",
+            "days": 7,
+            "all_vweight": 320000.0,
+            "plus_rshares": 57338239568525.0,
+            "minus_rshares": 0,
+            "self_rshares": 1929306248788.0,
+            "sum_of_share_squared": 0.2617454311091239,
+            "vcount": 32,
+            "inverse_simpson": 4,
+            "avg_full_voting_per_day": 4.57,
+            "upvcount": 32,
+            "upvotee_count": 8,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 3.36,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 39.58,
+                    "rshares": 22691781098465
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 22.94,
+                    "rshares": 13151981635076
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 21.81,
+                    "rshares": 12504051710664
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 3.36,
+                    "rshares": 1929306248788
+                },
+                {
+                    "account": "creamer7",
+                    "percentage": 3.35,
+                    "rshares": 1919685985067
+                },
+                {
+                    "account": "anabolic",
+                    "percentage": 3.21,
+                    "rshares": 1841963796809
+                },
+                {
+                    "account": "paxnet",
+                    "percentage": 3.15,
+                    "rshares": 1803388638760
+                },
+                {
+                    "account": "sirin418",
+                    "percentage": 2.61,
+                    "rshares": 1496080454896
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-17",
+            "end_date": "2018-03-31",
+            "days": 14,
+            "all_vweight": 1043000.0,
+            "plus_rshares": 170100727529946.0,
+            "minus_rshares": 0,
+            "self_rshares": 9821079337571.0,
+            "sum_of_share_squared": 0.17766150011193488,
+            "vcount": 118,
+            "inverse_simpson": 6,
+            "avg_full_voting_per_day": 7.45,
+            "upvcount": 118,
+            "upvotee_count": 26,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 5.77,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 30.66,
+                    "rshares": 52153379528321
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 20.38,
+                    "rshares": 34658726397467
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 18.78,
+                    "rshares": 31947268203362
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 5.77,
+                    "rshares": 9821079337571
+                },
+                {
+                    "account": "indend007",
+                    "percentage": 2.8,
+                    "rshares": 4769820677762
+                },
+                {
+                    "account": "thecminus",
+                    "percentage": 1.98,
+                    "rshares": 3375041980890
+                },
+                {
+                    "account": "bumblebee2018",
+                    "percentage": 1.98,
+                    "rshares": 3373623350110
+                },
+                {
+                    "account": "creamer7",
+                    "percentage": 1.92,
+                    "rshares": 3269135325111
+                },
+                {
+                    "account": "jsj1215",
+                    "percentage": 1.91,
+                    "rshares": 3257185672040
+                },
+                {
+                    "account": "anabolic",
+                    "percentage": 1.08,
+                    "rshares": 1841963796809
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-01",
+            "end_date": "2018-03-31",
+            "days": 30,
+            "all_vweight": 2226200.0,
+            "plus_rshares": 370756557293021.0,
+            "minus_rshares": 0,
+            "self_rshares": 17164720858515.0,
+            "sum_of_share_squared": 0.27585803225077965,
+            "vcount": 241,
+            "inverse_simpson": 4,
+            "avg_full_voting_per_day": 7.42,
+            "upvcount": 241,
+            "upvotee_count": 31,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 4.63,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 44.19,
+                    "rshares": 163846098540676
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 25.69,
+                    "rshares": 95250885772121
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 10.5,
+                    "rshares": 38947405798589
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 4.63,
+                    "rshares": 17164720858515
+                },
+                {
+                    "account": "indend007",
+                    "percentage": 1.76,
+                    "rshares": 6540609258543
+                },
+                {
+                    "account": "creamer7",
+                    "percentage": 1.76,
+                    "rshares": 6533310057304
+                },
+                {
+                    "account": "jsj1215",
+                    "percentage": 1.37,
+                    "rshares": 5076835040946
+                },
+                {
+                    "account": "jinjoohhh",
+                    "percentage": 0.96,
+                    "rshares": 3544849371038
+                },
+                {
+                    "account": "thecminus",
+                    "percentage": 0.91,
+                    "rshares": 3375041980890
+                },
+                {
+                    "account": "bumblebee2018",
+                    "percentage": 0.91,
+                    "rshares": 3373623350110
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-01-30",
+            "end_date": "2018-03-31",
+            "days": 60,
+            "all_vweight": 4992300.0,
+            "plus_rshares": 813320555437263.0,
+            "minus_rshares": 0,
+            "self_rshares": 47283369686494.0,
+            "sum_of_share_squared": 0.26766163367736573,
+            "vcount": 648,
+            "inverse_simpson": 4,
+            "avg_full_voting_per_day": 8.32,
+            "upvcount": 648,
+            "upvotee_count": 161,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 5.81,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 41.57,
+                    "rshares": 338061162220120
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 29.69,
+                    "rshares": 241443005616749
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 5.81,
+                    "rshares": 47283369686494
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 4.79,
+                    "rshares": 38947405798589
+                },
+                {
+                    "account": "indend007",
+                    "percentage": 1.97,
+                    "rshares": 16024767358720
+                },
+                {
+                    "account": "jinjoohhh",
+                    "percentage": 1.22,
+                    "rshares": 9952122176261
+                },
+                {
+                    "account": "creamer7",
+                    "percentage": 1.12,
+                    "rshares": 9080959313714
+                },
+                {
+                    "account": "jsj1215",
+                    "percentage": 0.97,
+                    "rshares": 7910289230140
+                },
+                {
+                    "account": "thecminus",
+                    "percentage": 0.76,
+                    "rshares": 6212998536821
+                },
+                {
+                    "account": "ribai",
+                    "percentage": 0.61,
+                    "rshares": 4970265776808
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2017-12-31",
+            "end_date": "2018-03-31",
+            "days": 90,
+            "all_vweight": 7261300.0,
+            "plus_rshares": 1216805878182194.0,
+            "minus_rshares": 0,
+            "self_rshares": 113100578075644.0,
+            "sum_of_share_squared": 0.2574965114059137,
+            "vcount": 925,
+            "inverse_simpson": 4,
+            "avg_full_voting_per_day": 8.07,
+            "upvcount": 925,
+            "upvotee_count": 189,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 9.29,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 37.34,
+                    "rshares": 454340495816974
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 32.8,
+                    "rshares": 399080783262019
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 9.29,
+                    "rshares": 113100578075644
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 3.2,
+                    "rshares": 38947405798589
+                },
+                {
+                    "account": "indend007",
+                    "percentage": 1.63,
+                    "rshares": 19850420167089
+                },
+                {
+                    "account": "smartcome",
+                    "percentage": 1.26,
+                    "rshares": 15313208093189
+                },
+                {
+                    "account": "jsj1215",
+                    "percentage": 0.83,
+                    "rshares": 10121097371149
+                },
+                {
+                    "account": "jinjoohhh",
+                    "percentage": 0.82,
+                    "rshares": 9952122176261
+                },
+                {
+                    "account": "creamer7",
+                    "percentage": 0.75,
+                    "rshares": 9080959313714
+                },
+                {
+                    "account": "kimsungmin",
+                    "percentage": 0.59,
+                    "rshares": 7182303018701
+                }
+            ],
+            "downvotee": []
+        }
+    ],
+    "weekly": [
+        {
+            "start_date": "2018-03-24",
+            "end_date": "2018-03-31",
+            "days": 7,
+            "all_vweight": 320000.0,
+            "plus_rshares": 57338239568525.0,
+            "minus_rshares": 0,
+            "self_rshares": 1929306248788.0,
+            "sum_of_share_squared": 0.2617454311091239,
+            "vcount": 32,
+            "inverse_simpson": 4,
+            "avg_full_voting_per_day": 4.57,
+            "upvcount": 32,
+            "upvotee_count": 8,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 3.36,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 39.58,
+                    "rshares": 22691781098465
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 22.94,
+                    "rshares": 13151981635076
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 21.81,
+                    "rshares": 12504051710664
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 3.36,
+                    "rshares": 1929306248788
+                },
+                {
+                    "account": "creamer7",
+                    "percentage": 3.35,
+                    "rshares": 1919685985067
+                },
+                {
+                    "account": "anabolic",
+                    "percentage": 3.21,
+                    "rshares": 1841963796809
+                },
+                {
+                    "account": "paxnet",
+                    "percentage": 3.15,
+                    "rshares": 1803388638760
+                },
+                {
+                    "account": "sirin418",
+                    "percentage": 2.61,
+                    "rshares": 1496080454896
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-17",
+            "end_date": "2018-03-24",
+            "days": 7,
+            "all_vweight": 723000.0,
+            "plus_rshares": 112762487961421.0,
+            "minus_rshares": 0,
+            "self_rshares": 7891773088783.0,
+            "sum_of_share_squared": 0.14591109346327005,
+            "vcount": 86,
+            "inverse_simpson": 7,
+            "avg_full_voting_per_day": 10.33,
+            "upvcount": 86,
+            "upvotee_count": 23,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 7.0,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 26.13,
+                    "rshares": 29461598429856
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 19.07,
+                    "rshares": 21506744762391
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 17.24,
+                    "rshares": 19443216492698
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 7.0,
+                    "rshares": 7891773088783
+                },
+                {
+                    "account": "indend007",
+                    "percentage": 4.23,
+                    "rshares": 4769820677762
+                },
+                {
+                    "account": "thecminus",
+                    "percentage": 2.99,
+                    "rshares": 3375041980890
+                },
+                {
+                    "account": "bumblebee2018",
+                    "percentage": 2.99,
+                    "rshares": 3373623350110
+                },
+                {
+                    "account": "jsj1215",
+                    "percentage": 2.89,
+                    "rshares": 3257185672040
+                },
+                {
+                    "account": "jinjoohhh",
+                    "percentage": 1.47,
+                    "rshares": 1658548657549
+                },
+                {
+                    "account": "thewriting",
+                    "percentage": 1.37,
+                    "rshares": 1550384366145
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-10",
+            "end_date": "2018-03-17",
+            "days": 7,
+            "all_vweight": 443100.0,
+            "plus_rshares": 77136233305775.0,
+            "minus_rshares": 0,
+            "self_rshares": 3830850156996.0,
+            "sum_of_share_squared": 0.32310984707192686,
+            "vcount": 47,
+            "inverse_simpson": 3,
+            "avg_full_voting_per_day": 6.33,
+            "upvcount": 47,
+            "upvotee_count": 12,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 4.97,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 49.96,
+                    "rshares": 38540072370296
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 24.66,
+                    "rshares": 19020668887423
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 9.08,
+                    "rshares": 7000137595227
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 4.97,
+                    "rshares": 3830850156996
+                },
+                {
+                    "account": "jsj1215",
+                    "percentage": 2.36,
+                    "rshares": 1819649368906
+                },
+                {
+                    "account": "creamer7",
+                    "percentage": 1.97,
+                    "rshares": 1523014872334
+                },
+                {
+                    "account": "thewriting",
+                    "percentage": 1.95,
+                    "rshares": 1503857452557
+                },
+                {
+                    "account": "oldstone",
+                    "percentage": 1.91,
+                    "rshares": 1475121322890
+                },
+                {
+                    "account": "indend007",
+                    "percentage": 1.2,
+                    "rshares": 928833376256
+                },
+                {
+                    "account": "hyeongjoongyoon",
+                    "percentage": 0.76,
+                    "rshares": 584203218438
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-03",
+            "end_date": "2018-03-10",
+            "days": 7,
+            "all_vweight": 560000.0,
+            "plus_rshares": 92609981590102.0,
+            "minus_rshares": 0,
+            "self_rshares": 1915026105065.0,
+            "sum_of_share_squared": 0.48426163125307414,
+            "vcount": 56,
+            "inverse_simpson": 2,
+            "avg_full_voting_per_day": 8.0,
+            "upvcount": 56,
+            "upvotee_count": 4,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 2.07,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 58.82,
+                    "rshares": 54469328090333
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 37.08,
+                    "rshares": 34339326681215
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 2.07,
+                    "rshares": 1915026105065
+                },
+                {
+                    "account": "jinjoohhh",
+                    "percentage": 2.04,
+                    "rshares": 1886300713489
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-02-24",
+            "end_date": "2018-03-03",
+            "days": 7,
+            "all_vweight": 460100.0,
+            "plus_rshares": 78038316387803.0,
+            "minus_rshares": 0,
+            "self_rshares": 3290954635526.0,
+            "sum_of_share_squared": 0.42393770678333265,
+            "vcount": 48,
+            "inverse_simpson": 2,
+            "avg_full_voting_per_day": 6.57,
+            "upvcount": 48,
+            "upvotee_count": 7,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 4.22,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 55.22,
+                    "rshares": 43093743049339
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 34.06,
+                    "rshares": 26583194159074
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 4.22,
+                    "rshares": 3290954635526
+                },
+                {
+                    "account": "creamer7",
+                    "percentage": 2.23,
+                    "rshares": 1741159859859
+                },
+                {
+                    "account": "jinjoohhh",
+                    "percentage": 2.15,
+                    "rshares": 1674057293291
+                },
+                {
+                    "account": "indend007",
+                    "percentage": 1.08,
+                    "rshares": 841955204525
+                },
+                {
+                    "account": "puberty",
+                    "percentage": 1.04,
+                    "rshares": 813252186189
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-02-17",
+            "end_date": "2018-02-24",
+            "days": 7,
+            "all_vweight": 622400.0,
+            "plus_rshares": 103918091081653.0,
+            "minus_rshares": 0,
+            "self_rshares": 3601153983441.0,
+            "sum_of_share_squared": 0.31720985014232805,
+            "vcount": 74,
+            "inverse_simpson": 3,
+            "avg_full_voting_per_day": 8.89,
+            "upvcount": 74,
+            "upvotee_count": 23,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 3.47,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 43.71,
+                    "rshares": 45424503325771
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 34.91,
+                    "rshares": 36278535708810
+                },
+                {
+                    "account": "indend007",
+                    "percentage": 3.59,
+                    "rshares": 3725635639179
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 3.47,
+                    "rshares": 3601153983441
+                },
+                {
+                    "account": "ribai",
+                    "percentage": 1.97,
+                    "rshares": 2045486430480
+                },
+                {
+                    "account": "creamer7",
+                    "percentage": 1.75,
+                    "rshares": 1815521587283
+                },
+                {
+                    "account": "humaidi",
+                    "percentage": 1.75,
+                    "rshares": 1815053260113
+                },
+                {
+                    "account": "jsj1215",
+                    "percentage": 1.44,
+                    "rshares": 1500717438631
+                },
+                {
+                    "account": "jaykim99",
+                    "percentage": 1.43,
+                    "rshares": 1481600019030
+                },
+                {
+                    "account": "kimsungmin",
+                    "percentage": 1.4,
+                    "rshares": 1452923889630
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-02-10",
+            "end_date": "2018-02-17",
+            "days": 7,
+            "all_vweight": 891500.0,
+            "plus_rshares": 134514478618414.0,
+            "minus_rshares": 0,
+            "self_rshares": 6565664322888.0,
+            "sum_of_share_squared": 0.4279794504035901,
+            "vcount": 94,
+            "inverse_simpson": 2,
+            "avg_full_voting_per_day": 12.74,
+            "upvcount": 94,
+            "upvotee_count": 11,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 4.88,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 54.69,
+                    "rshares": 73571519357518
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 35.45,
+                    "rshares": 47682707420228
+                },
+                {
+                    "account": "musicholic",
+                    "percentage": 4.88,
+                    "rshares": 6565664322888
+                },
+                {
+                    "account": "indend007",
+                    "percentage": 2.53,
+                    "rshares": 3400059184492
+                },
+                {
+                    "account": "ribai",
+                    "percentage": 1.11,
+                    "rshares": 1489876037649
+                },
+                {
+                    "account": "peanutbutter",
+                    "percentage": 0.4,
+                    "rshares": 544377782987
+                },
+                {
+                    "account": "konan",
+                    "percentage": 0.23,
+                    "rshares": 305601021564
+                },
+                {
+                    "account": "woojooo",
+                    "percentage": 0.23,
+                    "rshares": 305601021564
+                },
+                {
+                    "account": "sikbo",
+                    "percentage": 0.18,
+                    "rshares": 248224379771
+                },
+                {
+                    "account": "dianamun",
+                    "percentage": 0.15,
+                    "rshares": 200424354046
+                }
+            ],
+            "downvotee": []
+        }
+    ],
+    "account": {
+        "id": 166669,
+        "name": "musicholic",
+        "json_metadata": "{\"profile\":{\"name\":\"MusicHolic\",\"about\":\"Game Music Composer\",\"location\":\"Seoul.KOREA\",\"profile_image\":\"http://i.imgur.com/mBG0KHX.jpg\"}}",
+        "proxy": "",
+        "last_owner_update": "2018-03-21T03:04:09",
+        "last_account_update": "2018-03-22T13:28:15",
+        "created": "2017-05-22T01:09:03",
+        "mined": false,
+        "recovery_account": "steem",
+        "last_account_recovery": "1970-01-01T00:00:00",
+        "reset_account": "null",
+        "comment_count": 0,
+        "lifetime_vote_count": 0,
+        "post_count": 4667,
+        "can_vote": true,
+        "voting_power": 7576,
+        "last_vote_time": "2018-03-31T13:32:54",
+        "balance": "1.408 STEEM",
+        "savings_balance": "0.000 STEEM",
+        "sbd_balance": "27.617 SBD",
+        "sbd_seconds": "52515484767",
+        "sbd_seconds_last_update": "2018-03-31T08:41:12",
+        "sbd_last_interest_payment": "2018-03-03T06:39:57",
+        "savings_sbd_balance": "0.000 SBD",
+        "savings_sbd_seconds": "0",
+        "savings_sbd_seconds_last_update": "1970-01-01T00:00:00",
+        "savings_sbd_last_interest_payment": "1970-01-01T00:00:00",
+        "savings_withdraw_requests": 0,
+        "reward_sbd_balance": "7.291 SBD",
+        "reward_steem_balance": "0.702 STEEM",
+        "reward_vesting_balance": "13287.245885 VESTS",
+        "reward_vesting_steem": "6.514 STEEM",
+        "vesting_shares": "96521319.670722 VESTS",
+        "delegated_vesting_shares": "0.000000 VESTS",
+        "received_vesting_shares": "0.000000 VESTS",
+        "vesting_withdraw_rate": "0.000000 VESTS",
+        "next_vesting_withdrawal": "1969-12-31T23:59:59",
+        "withdrawn": 0,
+        "to_withdraw": 0,
+        "withdraw_routes": 0,
+        "curation_rewards": 993765,
+        "posting_rewards": 2883617,
+        "proxied_vsf_votes": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "witnesses_voted_for": 0,
+        "last_post": "2018-03-31T13:32:45",
+        "last_root_post": "2018-03-28T02:07:33",
+        "average_bandwidth": "53534874301",
+        "lifetime_bandwidth": "4121032000000",
+        "last_bandwidth_update": "2018-03-31T13:32:54",
+        "average_market_bandwidth": "6324472138",
+        "lifetime_market_bandwidth": "261590000000",
+        "last_market_bandwidth_update": "2018-03-23T04:11:06",
+        "vesting_balance": "0.000 STEEM",
+        "reputation": "23056481331921",
+        "transfer_history": [],
+        "market_history": [],
+        "post_history": [],
+        "vote_history": [],
+        "other_history": [],
+        "witness_votes": [],
+        "tags_usage": [],
+        "guest_bloggers": []
+    }
+}

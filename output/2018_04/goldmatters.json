@@ -1,0 +1,929 @@
+{
+    "accumulated": [
+        {
+            "start_date": "2018-03-24",
+            "end_date": "2018-03-31",
+            "days": 7,
+            "all_vweight": 372900.0,
+            "plus_rshares": 67633356765402.0,
+            "minus_rshares": 0,
+            "self_rshares": 21850285565571.0,
+            "sum_of_share_squared": 0.1660583510490365,
+            "vcount": 144,
+            "inverse_simpson": 6,
+            "avg_full_voting_per_day": 5.33,
+            "upvcount": 144,
+            "upvotee_count": 57,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 32.31,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 32.31,
+                    "rshares": 21850285565571
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 21.65,
+                    "rshares": 14645420435587
+                },
+                {
+                    "account": "thedamus",
+                    "percentage": 8.2,
+                    "rshares": 5545459312412
+                },
+                {
+                    "account": "maryjaney",
+                    "percentage": 5.37,
+                    "rshares": 3633092984131
+                },
+                {
+                    "account": "eveuncovered",
+                    "percentage": 2.65,
+                    "rshares": 1793659229636
+                },
+                {
+                    "account": "gabrielinnocent",
+                    "percentage": 2.64,
+                    "rshares": 1785018889146
+                },
+                {
+                    "account": "skyleap",
+                    "percentage": 2.61,
+                    "rshares": 1765502370433
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 2.45,
+                    "rshares": 1656999170267
+                },
+                {
+                    "account": "tbnfl4sun",
+                    "percentage": 2.17,
+                    "rshares": 1465916965113
+                },
+                {
+                    "account": "cryptoandcoffee",
+                    "percentage": 1.83,
+                    "rshares": 1238230266629
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-17",
+            "end_date": "2018-03-31",
+            "days": 14,
+            "all_vweight": 777300.0,
+            "plus_rshares": 140674321302933.0,
+            "minus_rshares": 0,
+            "self_rshares": 41956240572651.0,
+            "sum_of_share_squared": 0.12243257507699383,
+            "vcount": 377,
+            "inverse_simpson": 8,
+            "avg_full_voting_per_day": 5.55,
+            "upvcount": 377,
+            "upvotee_count": 125,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 29.83,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 29.83,
+                    "rshares": 41956240572651
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 14.29,
+                    "rshares": 20107942741339
+                },
+                {
+                    "account": "paolajane",
+                    "percentage": 5.57,
+                    "rshares": 7835589040461
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 4.88,
+                    "rshares": 6865308363023
+                },
+                {
+                    "account": "thedamus",
+                    "percentage": 4.39,
+                    "rshares": 6172433861065
+                },
+                {
+                    "account": "maryjaney",
+                    "percentage": 3.24,
+                    "rshares": 4551035078459
+                },
+                {
+                    "account": "gabrielinnocent",
+                    "percentage": 3.07,
+                    "rshares": 4320800163831
+                },
+                {
+                    "account": "autofreak",
+                    "percentage": 2.32,
+                    "rshares": 3265840657077
+                },
+                {
+                    "account": "armshippie",
+                    "percentage": 2.26,
+                    "rshares": 3180748131984
+                },
+                {
+                    "account": "papa-pepper",
+                    "percentage": 2.08,
+                    "rshares": 2927418045330
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-01",
+            "end_date": "2018-03-31",
+            "days": 30,
+            "all_vweight": 1662800.0,
+            "plus_rshares": 300410403255555.0,
+            "minus_rshares": 0,
+            "self_rshares": 91318756008875.0,
+            "sum_of_share_squared": 0.11934752027285608,
+            "vcount": 919,
+            "inverse_simpson": 8,
+            "avg_full_voting_per_day": 5.54,
+            "upvcount": 919,
+            "upvotee_count": 278,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 30.4,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 30.4,
+                    "rshares": 91318756008875
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 11.87,
+                    "rshares": 35660524576159
+                },
+                {
+                    "account": "paolajane",
+                    "percentage": 6.04,
+                    "rshares": 18154053240469
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 5.28,
+                    "rshares": 15869497467338
+                },
+                {
+                    "account": "thedamus",
+                    "percentage": 4.61,
+                    "rshares": 13848381781698
+                },
+                {
+                    "account": "bonniepiesse",
+                    "percentage": 2.54,
+                    "rshares": 7625117079943
+                },
+                {
+                    "account": "papa-pepper",
+                    "percentage": 2.52,
+                    "rshares": 7579835779509
+                },
+                {
+                    "account": "goldfashioned",
+                    "percentage": 1.99,
+                    "rshares": 5987445587958
+                },
+                {
+                    "account": "melissakellie",
+                    "percentage": 1.93,
+                    "rshares": 5787155951330
+                },
+                {
+                    "account": "pit-bullion",
+                    "percentage": 1.69,
+                    "rshares": 5088673248359
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-01-30",
+            "end_date": "2018-03-31",
+            "days": 60,
+            "all_vweight": 3827700.0,
+            "plus_rshares": 648930812910197.0,
+            "minus_rshares": 0,
+            "self_rshares": 191246422085482.0,
+            "sum_of_share_squared": 0.10963521672272543,
+            "vcount": 1758,
+            "inverse_simpson": 9,
+            "avg_full_voting_per_day": 6.38,
+            "upvcount": 1758,
+            "upvotee_count": 405,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 29.47,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 29.47,
+                    "rshares": 191246422085482
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 11.34,
+                    "rshares": 73587598499889
+                },
+                {
+                    "account": "thedamus",
+                    "percentage": 4.51,
+                    "rshares": 29242041246837
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 4.5,
+                    "rshares": 29219348106466
+                },
+                {
+                    "account": "papa-pepper",
+                    "percentage": 3.41,
+                    "rshares": 22127797889755
+                },
+                {
+                    "account": "paolajane",
+                    "percentage": 3.1,
+                    "rshares": 20128344951588
+                },
+                {
+                    "account": "pit-bullion",
+                    "percentage": 2.13,
+                    "rshares": 13815992768250
+                },
+                {
+                    "account": "jbcoin",
+                    "percentage": 2.05,
+                    "rshares": 13298883179167
+                },
+                {
+                    "account": "raybrockman",
+                    "percentage": 1.58,
+                    "rshares": 10279201448250
+                },
+                {
+                    "account": "goldmoney-inc",
+                    "percentage": 1.53,
+                    "rshares": 9915262844493
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2017-12-31",
+            "end_date": "2018-03-31",
+            "days": 90,
+            "all_vweight": 6088400.0,
+            "plus_rshares": 855937134455158.0,
+            "minus_rshares": 0,
+            "self_rshares": 250095428713647.0,
+            "sum_of_share_squared": 0.1024808139445044,
+            "vcount": 2277,
+            "inverse_simpson": 10,
+            "avg_full_voting_per_day": 6.76,
+            "upvcount": 2277,
+            "upvotee_count": 485,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 29.22,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 29.22,
+                    "rshares": 250095428713647
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 8.6,
+                    "rshares": 73587598499889
+                },
+                {
+                    "account": "papa-pepper",
+                    "percentage": 4.75,
+                    "rshares": 40652875936361
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 4.14,
+                    "rshares": 35458870997029
+                },
+                {
+                    "account": "thedamus",
+                    "percentage": 3.63,
+                    "rshares": 31074951899977
+                },
+                {
+                    "account": "jbcoin",
+                    "percentage": 3.19,
+                    "rshares": 27313876002478
+                },
+                {
+                    "account": "paolajane",
+                    "percentage": 2.35,
+                    "rshares": 20128344951588
+                },
+                {
+                    "account": "pit-bullion",
+                    "percentage": 1.61,
+                    "rshares": 13815992768250
+                },
+                {
+                    "account": "raybrockman",
+                    "percentage": 1.47,
+                    "rshares": 12595432375896
+                },
+                {
+                    "account": "kandies",
+                    "percentage": 1.33,
+                    "rshares": 11358133118858
+                }
+            ],
+            "downvotee": []
+        }
+    ],
+    "weekly": [
+        {
+            "start_date": "2018-03-24",
+            "end_date": "2018-03-31",
+            "days": 7,
+            "all_vweight": 372900.0,
+            "plus_rshares": 67633356765402.0,
+            "minus_rshares": 0,
+            "self_rshares": 21850285565571.0,
+            "sum_of_share_squared": 0.1660583510490365,
+            "vcount": 144,
+            "inverse_simpson": 6,
+            "avg_full_voting_per_day": 5.33,
+            "upvcount": 144,
+            "upvotee_count": 57,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 32.31,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 32.31,
+                    "rshares": 21850285565571
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 21.65,
+                    "rshares": 14645420435587
+                },
+                {
+                    "account": "thedamus",
+                    "percentage": 8.2,
+                    "rshares": 5545459312412
+                },
+                {
+                    "account": "maryjaney",
+                    "percentage": 5.37,
+                    "rshares": 3633092984131
+                },
+                {
+                    "account": "eveuncovered",
+                    "percentage": 2.65,
+                    "rshares": 1793659229636
+                },
+                {
+                    "account": "gabrielinnocent",
+                    "percentage": 2.64,
+                    "rshares": 1785018889146
+                },
+                {
+                    "account": "skyleap",
+                    "percentage": 2.61,
+                    "rshares": 1765502370433
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 2.45,
+                    "rshares": 1656999170267
+                },
+                {
+                    "account": "tbnfl4sun",
+                    "percentage": 2.17,
+                    "rshares": 1465916965113
+                },
+                {
+                    "account": "cryptoandcoffee",
+                    "percentage": 1.83,
+                    "rshares": 1238230266629
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-17",
+            "end_date": "2018-03-24",
+            "days": 7,
+            "all_vweight": 404400.0,
+            "plus_rshares": 73040964537531.0,
+            "minus_rshares": 0,
+            "self_rshares": 20105955007080.0,
+            "sum_of_share_squared": 0.1062408711830519,
+            "vcount": 233,
+            "inverse_simpson": 9,
+            "avg_full_voting_per_day": 5.78,
+            "upvcount": 233,
+            "upvotee_count": 96,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 27.53,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 27.53,
+                    "rshares": 20105955007080
+                },
+                {
+                    "account": "paolajane",
+                    "percentage": 10.73,
+                    "rshares": 7835589040461
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 7.48,
+                    "rshares": 5462522305752
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 7.13,
+                    "rshares": 5208309192756
+                },
+                {
+                    "account": "armshippie",
+                    "percentage": 3.68,
+                    "rshares": 2689154614934
+                },
+                {
+                    "account": "gabrielinnocent",
+                    "percentage": 3.47,
+                    "rshares": 2535781274685
+                },
+                {
+                    "account": "papa-pepper",
+                    "percentage": 3.11,
+                    "rshares": 2272103483514
+                },
+                {
+                    "account": "theaudgirl",
+                    "percentage": 2.82,
+                    "rshares": 2062363117673
+                },
+                {
+                    "account": "autofreak",
+                    "percentage": 2.79,
+                    "rshares": 2036093780236
+                },
+                {
+                    "account": "kortney",
+                    "percentage": 2.49,
+                    "rshares": 1819104186101
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-10",
+            "end_date": "2018-03-17",
+            "days": 7,
+            "all_vweight": 433400.0,
+            "plus_rshares": 78240288163070.0,
+            "minus_rshares": 0,
+            "self_rshares": 22231433481690.0,
+            "sum_of_share_squared": 0.1298593956660969,
+            "vcount": 221,
+            "inverse_simpson": 8,
+            "avg_full_voting_per_day": 6.19,
+            "upvcount": 221,
+            "upvotee_count": 86,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 28.41,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 28.41,
+                    "rshares": 22231433481690
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 14.68,
+                    "rshares": 11482635537049
+                },
+                {
+                    "account": "bonniepiesse",
+                    "percentage": 9.49,
+                    "rshares": 7425865782029
+                },
+                {
+                    "account": "paolajane",
+                    "percentage": 8.2,
+                    "rshares": 6417721890795
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 7.49,
+                    "rshares": 5859298626059
+                },
+                {
+                    "account": "thedamus",
+                    "percentage": 5.06,
+                    "rshares": 3956837810084
+                },
+                {
+                    "account": "camilus",
+                    "percentage": 3.26,
+                    "rshares": 2550365664149
+                },
+                {
+                    "account": "melissakellie",
+                    "percentage": 2.9,
+                    "rshares": 2266460671863
+                },
+                {
+                    "account": "darkmrmystic",
+                    "percentage": 2.54,
+                    "rshares": 1985172428177
+                },
+                {
+                    "account": "pit-bullion",
+                    "percentage": 1.53,
+                    "rshares": 1197494190898
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-03",
+            "end_date": "2018-03-10",
+            "days": 7,
+            "all_vweight": 304100.0,
+            "plus_rshares": 54892547837699.0,
+            "minus_rshares": 0,
+            "self_rshares": 19912978125995.0,
+            "sum_of_share_squared": 0.15489395617530577,
+            "vcount": 250,
+            "inverse_simpson": 6,
+            "avg_full_voting_per_day": 4.34,
+            "upvcount": 250,
+            "upvotee_count": 137,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 36.28,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 36.28,
+                    "rshares": 19912978125995
+                },
+                {
+                    "account": "paolajane",
+                    "percentage": 7.11,
+                    "rshares": 3900742309213
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 6.59,
+                    "rshares": 3618405936985
+                },
+                {
+                    "account": "pit-bullion",
+                    "percentage": 6.5,
+                    "rshares": 3565994609229
+                },
+                {
+                    "account": "thedamus",
+                    "percentage": 6.45,
+                    "rshares": 3538394502260
+                },
+                {
+                    "account": "vanessazune2",
+                    "percentage": 3.79,
+                    "rshares": 2082853702096
+                },
+                {
+                    "account": "geneeverett",
+                    "percentage": 3.24,
+                    "rshares": 1780568592460
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 2.47,
+                    "rshares": 1356193802561
+                },
+                {
+                    "account": "melissakellie",
+                    "percentage": 2.37,
+                    "rshares": 1302723213617
+                },
+                {
+                    "account": "goldfashioned",
+                    "percentage": 1.96,
+                    "rshares": 1075564258249
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-02-24",
+            "end_date": "2018-03-03",
+            "days": 7,
+            "all_vweight": 489400.0,
+            "plus_rshares": 87803353810111.0,
+            "minus_rshares": 0,
+            "self_rshares": 24007491454183.0,
+            "sum_of_share_squared": 0.10255180185856408,
+            "vcount": 194,
+            "inverse_simpson": 10,
+            "avg_full_voting_per_day": 6.99,
+            "upvcount": 194,
+            "upvotee_count": 77,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 27.34,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 27.34,
+                    "rshares": 24007491454183
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 8.99,
+                    "rshares": 7892401160746
+                },
+                {
+                    "account": "papa-pepper",
+                    "percentage": 6.59,
+                    "rshares": 5785521715149
+                },
+                {
+                    "account": "goldfashioned",
+                    "percentage": 4.58,
+                    "rshares": 4019604809237
+                },
+                {
+                    "account": "gabrielinnocent",
+                    "percentage": 4.33,
+                    "rshares": 3804765030162
+                },
+                {
+                    "account": "goldismoney",
+                    "percentage": 4.23,
+                    "rshares": 3714709149833
+                },
+                {
+                    "account": "goldmoney-inc",
+                    "percentage": 4.11,
+                    "rshares": 3611761671673
+                },
+                {
+                    "account": "thetimetravelerz",
+                    "percentage": 3.8,
+                    "rshares": 3335462126351
+                },
+                {
+                    "account": "melissakellie",
+                    "percentage": 3.58,
+                    "rshares": 3140344749986
+                },
+                {
+                    "account": "kandies",
+                    "percentage": 3.42,
+                    "rshares": 3004553600495
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-02-17",
+            "end_date": "2018-02-24",
+            "days": 7,
+            "all_vweight": 557500.0,
+            "plus_rshares": 98731382938941.0,
+            "minus_rshares": 0,
+            "self_rshares": 32728848423934.0,
+            "sum_of_share_squared": 0.13448047643417757,
+            "vcount": 284,
+            "inverse_simpson": 7,
+            "avg_full_voting_per_day": 7.96,
+            "upvcount": 284,
+            "upvotee_count": 100,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 33.15,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 33.15,
+                    "rshares": 32728848423934
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 11.27,
+                    "rshares": 11124222939906
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 5.41,
+                    "rshares": 5345965101281
+                },
+                {
+                    "account": "papa-pepper",
+                    "percentage": 3.64,
+                    "rshares": 3591525645400
+                },
+                {
+                    "account": "thedamus",
+                    "percentage": 3.31,
+                    "rshares": 3269513035436
+                },
+                {
+                    "account": "raybrockman",
+                    "percentage": 2.77,
+                    "rshares": 2734930517141
+                },
+                {
+                    "account": "par-ee",
+                    "percentage": 2.44,
+                    "rshares": 2411986461325
+                },
+                {
+                    "account": "redwellies",
+                    "percentage": 2.43,
+                    "rshares": 2396567623716
+                },
+                {
+                    "account": "roysebag",
+                    "percentage": 2.33,
+                    "rshares": 2305256323822
+                },
+                {
+                    "account": "jbcoin",
+                    "percentage": 2.33,
+                    "rshares": 2304825251269
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-02-10",
+            "end_date": "2018-02-17",
+            "days": 7,
+            "all_vweight": 523000.0,
+            "plus_rshares": 92877222159922.0,
+            "minus_rshares": 0,
+            "self_rshares": 21269145961454.0,
+            "sum_of_share_squared": 0.09054914957563613,
+            "vcount": 263,
+            "inverse_simpson": 11,
+            "avg_full_voting_per_day": 7.47,
+            "upvcount": 263,
+            "upvotee_count": 87,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 22.9,
+            "upvotee": [
+                {
+                    "account": "goldmatters",
+                    "percentage": 22.9,
+                    "rshares": 21269145961454
+                },
+                {
+                    "account": "coruscate",
+                    "percentage": 11.7,
+                    "rshares": 10866606003808
+                },
+                {
+                    "account": "pit-bullion",
+                    "percentage": 8.63,
+                    "rshares": 8015784565792
+                },
+                {
+                    "account": "sevinwilson",
+                    "percentage": 5.64,
+                    "rshares": 5238925871666
+                },
+                {
+                    "account": "redwellies",
+                    "percentage": 5.45,
+                    "rshares": 5058143550616
+                },
+                {
+                    "account": "jbcoin",
+                    "percentage": 4.78,
+                    "rshares": 4439214389894
+                },
+                {
+                    "account": "tbnfl4sun",
+                    "percentage": 4.77,
+                    "rshares": 4429130418871
+                },
+                {
+                    "account": "thedamus",
+                    "percentage": 3.78,
+                    "rshares": 3512123497221
+                },
+                {
+                    "account": "papa-pepper",
+                    "percentage": 2.79,
+                    "rshares": 2587674445792
+                },
+                {
+                    "account": "tauntfourstar",
+                    "percentage": 2.57,
+                    "rshares": 2390919682869
+                }
+            ],
+            "downvotee": []
+        }
+    ],
+    "account": {
+        "id": 87529,
+        "name": "goldmatters",
+        "json_metadata": "{\"profile\":{\"profile_image\":\"https://i.imgsafe.org/0d8b5db716.jpg\",\"about\":\"The views and opinions in this article are those of the author(s), do not reflect the views and opinions of Goldmoney, and are not advice.  Goldmoney consultant\",\"website\":\"http://mene.com/invite/JrT26p\"}}",
+        "proxy": "",
+        "last_owner_update": "1970-01-01T00:00:00",
+        "last_account_update": "2018-02-27T06:23:21",
+        "created": "2016-09-09T17:30:03",
+        "mined": false,
+        "recovery_account": "steem",
+        "last_account_recovery": "1970-01-01T00:00:00",
+        "reset_account": "null",
+        "comment_count": 0,
+        "lifetime_vote_count": 0,
+        "post_count": 9143,
+        "can_vote": true,
+        "voting_power": 9996,
+        "last_vote_time": "2018-03-31T17:46:39",
+        "balance": "5015.629 STEEM",
+        "savings_balance": "0.001 STEEM",
+        "sbd_balance": "102.210 SBD",
+        "sbd_seconds": "523241034",
+        "sbd_seconds_last_update": "2018-03-31T18:16:30",
+        "sbd_last_interest_payment": "2018-03-20T18:26:57",
+        "savings_sbd_balance": "0.000 SBD",
+        "savings_sbd_seconds": "0",
+        "savings_sbd_seconds_last_update": "1970-01-01T00:00:00",
+        "savings_sbd_last_interest_payment": "1970-01-01T00:00:00",
+        "savings_withdraw_requests": 0,
+        "reward_sbd_balance": "0.000 SBD",
+        "reward_steem_balance": "0.000 STEEM",
+        "reward_vesting_balance": "224.371837 VESTS",
+        "reward_vesting_steem": "0.110 STEEM",
+        "vesting_shares": "91120958.179478 VESTS",
+        "delegated_vesting_shares": "0.000000 VESTS",
+        "received_vesting_shares": "0.000000 VESTS",
+        "vesting_withdraw_rate": "0.000000 VESTS",
+        "next_vesting_withdrawal": "1969-12-31T23:59:59",
+        "withdrawn": 0,
+        "to_withdraw": 0,
+        "withdraw_routes": 0,
+        "curation_rewards": 843149,
+        "posting_rewards": 8276738,
+        "proxied_vsf_votes": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "witnesses_voted_for": 1,
+        "last_post": "2018-03-31T17:46:27",
+        "last_root_post": "2018-03-31T09:01:27",
+        "average_bandwidth": "261028927916",
+        "lifetime_bandwidth": "8429912000000",
+        "last_bandwidth_update": "2018-03-31T18:23:18",
+        "average_market_bandwidth": "37241777841",
+        "lifetime_market_bandwidth": "1937270000000",
+        "last_market_bandwidth_update": "2018-03-31T18:16:24",
+        "vesting_balance": "0.000 STEEM",
+        "reputation": "54997678968216",
+        "transfer_history": [],
+        "market_history": [],
+        "post_history": [],
+        "vote_history": [],
+        "other_history": [],
+        "witness_votes": [
+            "rival"
+        ],
+        "tags_usage": [],
+        "guest_bloggers": []
+    }
+}

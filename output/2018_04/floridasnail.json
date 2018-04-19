@@ -1,0 +1,931 @@
+{
+    "accumulated": [
+        {
+            "start_date": "2018-03-24",
+            "end_date": "2018-03-31",
+            "days": 7,
+            "all_vweight": 925500.0,
+            "plus_rshares": 52104629663525.0,
+            "minus_rshares": 0,
+            "self_rshares": 5948789135273.0,
+            "sum_of_share_squared": 0.07321986521186619,
+            "vcount": 245,
+            "inverse_simpson": 14,
+            "avg_full_voting_per_day": 13.22,
+            "upvcount": 245,
+            "upvotee_count": 85,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 11.42,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 14.7,
+                    "rshares": 7660615862794
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 11.42,
+                    "rshares": 5948789135273
+                },
+                {
+                    "account": "shinternational",
+                    "percentage": 11.35,
+                    "rshares": 5914163302318
+                },
+                {
+                    "account": "arneb271828",
+                    "percentage": 8.81,
+                    "rshares": 4590125832216
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 8.05,
+                    "rshares": 4193825119330
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 7.02,
+                    "rshares": 3657131952089
+                },
+                {
+                    "account": "gaeteul",
+                    "percentage": 5.77,
+                    "rshares": 3008307710302
+                },
+                {
+                    "account": "pharm.steemit",
+                    "percentage": 2.09,
+                    "rshares": 1090992169240
+                },
+                {
+                    "account": "edwardcha888",
+                    "percentage": 1.98,
+                    "rshares": 1032018764722
+                },
+                {
+                    "account": "donkimusa",
+                    "percentage": 1.57,
+                    "rshares": 816201574124
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-17",
+            "end_date": "2018-03-31",
+            "days": 14,
+            "all_vweight": 1903400.0,
+            "plus_rshares": 103457920217701.0,
+            "minus_rshares": 0,
+            "self_rshares": 11611192958006.0,
+            "sum_of_share_squared": 0.08424726158595058,
+            "vcount": 645,
+            "inverse_simpson": 12,
+            "avg_full_voting_per_day": 13.6,
+            "upvcount": 645,
+            "upvotee_count": 160,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 11.22,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 19.97,
+                    "rshares": 20659558706945
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 11.22,
+                    "rshares": 11611192958006
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 10.08,
+                    "rshares": 10423542851330
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 8.23,
+                    "rshares": 8513367443259
+                },
+                {
+                    "account": "shinternational",
+                    "percentage": 7.61,
+                    "rshares": 7873577244978
+                },
+                {
+                    "account": "arneb271828",
+                    "percentage": 7.32,
+                    "rshares": 7574420163930
+                },
+                {
+                    "account": "gaeteul",
+                    "percentage": 3.84,
+                    "rshares": 3971928811141
+                },
+                {
+                    "account": "pharm.steemit",
+                    "percentage": 2.11,
+                    "rshares": 2187128432425
+                },
+                {
+                    "account": "machellin",
+                    "percentage": 1.37,
+                    "rshares": 1415340316775
+                },
+                {
+                    "account": "donkimusa",
+                    "percentage": 1.19,
+                    "rshares": 1233294391668
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-01",
+            "end_date": "2018-03-31",
+            "days": 30,
+            "all_vweight": 3784500.0,
+            "plus_rshares": 205708849992911.0,
+            "minus_rshares": 0,
+            "self_rshares": 23870469728176.0,
+            "sum_of_share_squared": 0.11937537002816945,
+            "vcount": 1410,
+            "inverse_simpson": 8,
+            "avg_full_voting_per_day": 12.62,
+            "upvcount": 1410,
+            "upvotee_count": 244,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 11.6,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 26.63,
+                    "rshares": 54786210534052
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 15.52,
+                    "rshares": 31922755692689
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 11.6,
+                    "rshares": 23870469728176
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 6.38,
+                    "rshares": 13117368594657
+                },
+                {
+                    "account": "shinternational",
+                    "percentage": 5.6,
+                    "rshares": 11527069660436
+                },
+                {
+                    "account": "arneb271828",
+                    "percentage": 3.68,
+                    "rshares": 7574420163930
+                },
+                {
+                    "account": "gaeteul",
+                    "percentage": 2.5,
+                    "rshares": 5147483007235
+                },
+                {
+                    "account": "gyedo",
+                    "percentage": 1.61,
+                    "rshares": 3307981955607
+                },
+                {
+                    "account": "pharm.steemit",
+                    "percentage": 1.58,
+                    "rshares": 3255672551434
+                },
+                {
+                    "account": "donkimusa",
+                    "percentage": 1.28,
+                    "rshares": 2629620809242
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-01-30",
+            "end_date": "2018-03-31",
+            "days": 60,
+            "all_vweight": 7563600.0,
+            "plus_rshares": 413435442246787.0,
+            "minus_rshares": 0,
+            "self_rshares": 50410790121963.0,
+            "sum_of_share_squared": 0.1324310019397438,
+            "vcount": 3484,
+            "inverse_simpson": 8,
+            "avg_full_voting_per_day": 12.61,
+            "upvcount": 3484,
+            "upvotee_count": 456,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 12.19,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 26.56,
+                    "rshares": 109827475570628
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 20.62,
+                    "rshares": 85267717098508
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 12.19,
+                    "rshares": 50410790121963
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 3.17,
+                    "rshares": 13117368594657
+                },
+                {
+                    "account": "shinternational",
+                    "percentage": 2.93,
+                    "rshares": 12101549694344
+                },
+                {
+                    "account": "hersnz",
+                    "percentage": 2.13,
+                    "rshares": 8787553246944
+                },
+                {
+                    "account": "arneb271828",
+                    "percentage": 1.83,
+                    "rshares": 7574420163930
+                },
+                {
+                    "account": "gaeteul",
+                    "percentage": 1.82,
+                    "rshares": 7522674460801
+                },
+                {
+                    "account": "gyedo",
+                    "percentage": 1.63,
+                    "rshares": 6740095105888
+                },
+                {
+                    "account": "pharm.steemit",
+                    "percentage": 1.38,
+                    "rshares": 5689554465091
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2017-12-31",
+            "end_date": "2018-03-31",
+            "days": 90,
+            "all_vweight": 10995000.0,
+            "plus_rshares": 671756139625137.0,
+            "minus_rshares": 0,
+            "self_rshares": 88616126361841.0,
+            "sum_of_share_squared": 0.12070209951267803,
+            "vcount": 5634,
+            "inverse_simpson": 8,
+            "avg_full_voting_per_day": 12.22,
+            "upvcount": 5634,
+            "upvotee_count": 753,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 13.19,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 23.19,
+                    "rshares": 155780064544582
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 21.51,
+                    "rshares": 144486218821774
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 13.19,
+                    "rshares": 88616126361841
+                },
+                {
+                    "account": "hersnz",
+                    "percentage": 2.07,
+                    "rshares": 13888271669066
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 1.95,
+                    "rshares": 13117368594657
+                },
+                {
+                    "account": "himapan",
+                    "percentage": 1.82,
+                    "rshares": 12233654831452
+                },
+                {
+                    "account": "pharm.steemit",
+                    "percentage": 1.82,
+                    "rshares": 12232635967919
+                },
+                {
+                    "account": "gaeteul",
+                    "percentage": 1.81,
+                    "rshares": 12158530696558
+                },
+                {
+                    "account": "shinternational",
+                    "percentage": 1.8,
+                    "rshares": 12101549694344
+                },
+                {
+                    "account": "euni",
+                    "percentage": 1.33,
+                    "rshares": 8946145899166
+                }
+            ],
+            "downvotee": []
+        }
+    ],
+    "weekly": [
+        {
+            "start_date": "2018-03-24",
+            "end_date": "2018-03-31",
+            "days": 7,
+            "all_vweight": 925500.0,
+            "plus_rshares": 52104629663525.0,
+            "minus_rshares": 0,
+            "self_rshares": 5948789135273.0,
+            "sum_of_share_squared": 0.07321986521186619,
+            "vcount": 245,
+            "inverse_simpson": 14,
+            "avg_full_voting_per_day": 13.22,
+            "upvcount": 245,
+            "upvotee_count": 85,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 11.42,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 14.7,
+                    "rshares": 7660615862794
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 11.42,
+                    "rshares": 5948789135273
+                },
+                {
+                    "account": "shinternational",
+                    "percentage": 11.35,
+                    "rshares": 5914163302318
+                },
+                {
+                    "account": "arneb271828",
+                    "percentage": 8.81,
+                    "rshares": 4590125832216
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 8.05,
+                    "rshares": 4193825119330
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 7.02,
+                    "rshares": 3657131952089
+                },
+                {
+                    "account": "gaeteul",
+                    "percentage": 5.77,
+                    "rshares": 3008307710302
+                },
+                {
+                    "account": "pharm.steemit",
+                    "percentage": 2.09,
+                    "rshares": 1090992169240
+                },
+                {
+                    "account": "edwardcha888",
+                    "percentage": 1.98,
+                    "rshares": 1032018764722
+                },
+                {
+                    "account": "donkimusa",
+                    "percentage": 1.57,
+                    "rshares": 816201574124
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-17",
+            "end_date": "2018-03-24",
+            "days": 7,
+            "all_vweight": 977900.0,
+            "plus_rshares": 51353290554176.0,
+            "minus_rshares": 0,
+            "self_rshares": 5662403822733.0,
+            "sum_of_share_squared": 0.10810902848190283,
+            "vcount": 400,
+            "inverse_simpson": 9,
+            "avg_full_voting_per_day": 13.97,
+            "upvcount": 400,
+            "upvotee_count": 130,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 11.03,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 25.31,
+                    "rshares": 12998942844151
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 13.18,
+                    "rshares": 6766410899241
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 11.03,
+                    "rshares": 5662403822733
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 8.41,
+                    "rshares": 4319542323929
+                },
+                {
+                    "account": "arneb271828",
+                    "percentage": 5.81,
+                    "rshares": 2984294331714
+                },
+                {
+                    "account": "shinternational",
+                    "percentage": 3.82,
+                    "rshares": 1959413942660
+                },
+                {
+                    "account": "pharm.steemit",
+                    "percentage": 2.13,
+                    "rshares": 1096136263185
+                },
+                {
+                    "account": "gaeteul",
+                    "percentage": 1.88,
+                    "rshares": 963621100839
+                },
+                {
+                    "account": "hersnz",
+                    "percentage": 1.47,
+                    "rshares": 756580387464
+                },
+                {
+                    "account": "machellin",
+                    "percentage": 1.45,
+                    "rshares": 744497027302
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-10",
+            "end_date": "2018-03-17",
+            "days": 7,
+            "all_vweight": 919000.0,
+            "plus_rshares": 50784574363929.0,
+            "minus_rshares": 0,
+            "self_rshares": 5492950572895.0,
+            "sum_of_share_squared": 0.14800634536983173,
+            "vcount": 365,
+            "inverse_simpson": 7,
+            "avg_full_voting_per_day": 13.13,
+            "upvcount": 365,
+            "upvotee_count": 102,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 10.82,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 31.07,
+                    "rshares": 15779683630299
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 15.98,
+                    "rshares": 8117619586107
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 10.82,
+                    "rshares": 5492950572895
+                },
+                {
+                    "account": "wefund",
+                    "percentage": 9.07,
+                    "rshares": 4604001151398
+                },
+                {
+                    "account": "shinternational",
+                    "percentage": 6.29,
+                    "rshares": 3193317300587
+                },
+                {
+                    "account": "gaeteul",
+                    "percentage": 1.54,
+                    "rshares": 779841721284
+                },
+                {
+                    "account": "gyedo",
+                    "percentage": 1.3,
+                    "rshares": 659959385809
+                },
+                {
+                    "account": "machellin",
+                    "percentage": 1.25,
+                    "rshares": 636220615117
+                },
+                {
+                    "account": "hersnz",
+                    "percentage": 1.23,
+                    "rshares": 622528878258
+                },
+                {
+                    "account": "keydon",
+                    "percentage": 1.1,
+                    "rshares": 557547817198
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-03-03",
+            "end_date": "2018-03-10",
+            "days": 7,
+            "all_vweight": 747800.0,
+            "plus_rshares": 40027231282598.0,
+            "minus_rshares": 0,
+            "self_rshares": 5153291649297.0,
+            "sum_of_share_squared": 0.20491743448940355,
+            "vcount": 339,
+            "inverse_simpson": 5,
+            "avg_full_voting_per_day": 10.68,
+            "upvcount": 339,
+            "upvotee_count": 115,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 12.87,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 35.47,
+                    "rshares": 14196068775476
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 24.48,
+                    "rshares": 9798890721921
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 12.87,
+                    "rshares": 5153291649297
+                },
+                {
+                    "account": "gyedo",
+                    "percentage": 2.37,
+                    "rshares": 947672521458
+                },
+                {
+                    "account": "donkimusa",
+                    "percentage": 2.01,
+                    "rshares": 802779575504
+                },
+                {
+                    "account": "catiot",
+                    "percentage": 1.47,
+                    "rshares": 586702307536
+                },
+                {
+                    "account": "pharm.steemit",
+                    "percentage": 1.37,
+                    "rshares": 548801433290
+                },
+                {
+                    "account": "silla",
+                    "percentage": 1.34,
+                    "rshares": 538331354894
+                },
+                {
+                    "account": "jaytop",
+                    "percentage": 1.15,
+                    "rshares": 460265762506
+                },
+                {
+                    "account": "shinternational",
+                    "percentage": 1.15,
+                    "rshares": 460175114871
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-02-24",
+            "end_date": "2018-03-03",
+            "days": 7,
+            "all_vweight": 954100.0,
+            "plus_rshares": 50685734891169.0,
+            "minus_rshares": 0,
+            "self_rshares": 6236086151402.0,
+            "sum_of_share_squared": 0.1508670348570802,
+            "vcount": 428,
+            "inverse_simpson": 7,
+            "avg_full_voting_per_day": 13.63,
+            "upvcount": 428,
+            "upvotee_count": 125,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 12.3,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 27.34,
+                    "rshares": 13856741925130
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 23.66,
+                    "rshares": 11990180122828
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 12.3,
+                    "rshares": 6236086151402
+                },
+                {
+                    "account": "gyedo",
+                    "percentage": 3.65,
+                    "rshares": 1849859921291
+                },
+                {
+                    "account": "hersnz",
+                    "percentage": 2.68,
+                    "rshares": 1356692069327
+                },
+                {
+                    "account": "himapan",
+                    "percentage": 2.42,
+                    "rshares": 1224419446837
+                },
+                {
+                    "account": "girina79",
+                    "percentage": 1.99,
+                    "rshares": 1006387717143
+                },
+                {
+                    "account": "jinty1004",
+                    "percentage": 1.76,
+                    "rshares": 894170382891
+                },
+                {
+                    "account": "westport",
+                    "percentage": 1.38,
+                    "rshares": 696965320071
+                },
+                {
+                    "account": "rkmrkm99",
+                    "percentage": 1.32,
+                    "rshares": 669794616340
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-02-17",
+            "end_date": "2018-02-24",
+            "days": 7,
+            "all_vweight": 801000.0,
+            "plus_rshares": 45562921157706.0,
+            "minus_rshares": 0,
+            "self_rshares": 7168767144295.0,
+            "sum_of_share_squared": 0.18611333038844782,
+            "vcount": 414,
+            "inverse_simpson": 5,
+            "avg_full_voting_per_day": 11.44,
+            "upvcount": 414,
+            "upvotee_count": 126,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 15.73,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 29.52,
+                    "rshares": 13451325766337
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 26.79,
+                    "rshares": 12206827837404
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 15.73,
+                    "rshares": 7168767144295
+                },
+                {
+                    "account": "hersnz",
+                    "percentage": 2.34,
+                    "rshares": 1066122232894
+                },
+                {
+                    "account": "gyedo",
+                    "percentage": 2.24,
+                    "rshares": 1021840522922
+                },
+                {
+                    "account": "himapan",
+                    "percentage": 1.42,
+                    "rshares": 648287465538
+                },
+                {
+                    "account": "justinelee",
+                    "percentage": 1.32,
+                    "rshares": 600470896672
+                },
+                {
+                    "account": "gaeteul",
+                    "percentage": 1.24,
+                    "rshares": 566766377756
+                },
+                {
+                    "account": "tkfloridagolf",
+                    "percentage": 1.14,
+                    "rshares": 519723114777
+                },
+                {
+                    "account": "jinty1004",
+                    "percentage": 1.02,
+                    "rshares": 464784512582
+                }
+            ],
+            "downvotee": []
+        },
+        {
+            "start_date": "2018-02-10",
+            "end_date": "2018-02-17",
+            "days": 7,
+            "all_vweight": 832100.0,
+            "plus_rshares": 47813373168061.0,
+            "minus_rshares": 0,
+            "self_rshares": 6102637573477.0,
+            "sum_of_share_squared": 0.20393077370483154,
+            "vcount": 470,
+            "inverse_simpson": 5,
+            "avg_full_voting_per_day": 11.89,
+            "upvcount": 470,
+            "upvotee_count": 153,
+            "dnvcount": 0,
+            "dnvotee_count": 0,
+            "self_vote_rate": 12.76,
+            "upvotee": [
+                {
+                    "account": "koreaculture",
+                    "percentage": 32.94,
+                    "rshares": 15750706435850
+                },
+                {
+                    "account": "krexchange",
+                    "percentage": 27.76,
+                    "rshares": 13271149390903
+                },
+                {
+                    "account": "floridasnail",
+                    "percentage": 12.76,
+                    "rshares": 6102637573477
+                },
+                {
+                    "account": "gyedo",
+                    "percentage": 1.69,
+                    "rshares": 806820100443
+                },
+                {
+                    "account": "autokjk70",
+                    "percentage": 1.62,
+                    "rshares": 772826154009
+                },
+                {
+                    "account": "jinty1004",
+                    "percentage": 1.5,
+                    "rshares": 715109263925
+                },
+                {
+                    "account": "hersnz",
+                    "percentage": 1.45,
+                    "rshares": 694611330546
+                },
+                {
+                    "account": "pharm.steemit",
+                    "percentage": 1.3,
+                    "rshares": 623479482308
+                },
+                {
+                    "account": "jerrybanfield",
+                    "percentage": 1.18,
+                    "rshares": 562823679247
+                },
+                {
+                    "account": "tkfloridagolf",
+                    "percentage": 1.13,
+                    "rshares": 542415919406
+                }
+            ],
+            "downvotee": []
+        }
+    ],
+    "account": {
+        "id": 219826,
+        "name": "floridasnail",
+        "json_metadata": "{\"profile\":{\"name\":\"Florida Snail\",\"location\":\"Florida, US\",\"about\":\"living, loving and learning / \uc0b4\uba70 \uc0ac\ub791\ud558\uba70 \ubc30\uc6b0\uba70\",\"profile_image\":\"https://steemitimages.com/DQmaTDoMoy9VLvx91jkXYp8Ws8ZBSqFfYxZijTYBkJvgZiv/floridasanillogo.png\"}}",
+        "proxy": "",
+        "last_owner_update": "1970-01-01T00:00:00",
+        "last_account_update": "2018-03-06T23:57:12",
+        "created": "2017-06-24T13:51:03",
+        "mined": false,
+        "recovery_account": "steem",
+        "last_account_recovery": "1970-01-01T00:00:00",
+        "reset_account": "null",
+        "comment_count": 0,
+        "lifetime_vote_count": 0,
+        "post_count": 10807,
+        "can_vote": true,
+        "voting_power": 6075,
+        "last_vote_time": "2018-03-31T12:50:48",
+        "balance": "2.907 STEEM",
+        "savings_balance": "0.000 STEEM",
+        "sbd_balance": "777.120 SBD",
+        "sbd_seconds": "377707821492",
+        "sbd_seconds_last_update": "2018-03-31T15:05:15",
+        "sbd_last_interest_payment": "2018-03-26T03:05:18",
+        "savings_sbd_balance": "0.000 SBD",
+        "savings_sbd_seconds": "0",
+        "savings_sbd_seconds_last_update": "1970-01-01T00:00:00",
+        "savings_sbd_last_interest_payment": "1970-01-01T00:00:00",
+        "savings_withdraw_requests": 0,
+        "reward_sbd_balance": "0.000 SBD",
+        "reward_steem_balance": "0.000 STEEM",
+        "reward_vesting_balance": "809.785888 VESTS",
+        "reward_vesting_steem": "0.397 STEEM",
+        "vesting_shares": "36500568.195293 VESTS",
+        "delegated_vesting_shares": "0.000000 VESTS",
+        "received_vesting_shares": "0.000000 VESTS",
+        "vesting_withdraw_rate": "0.000000 VESTS",
+        "next_vesting_withdrawal": "1969-12-31T23:59:59",
+        "withdrawn": 0,
+        "to_withdraw": 0,
+        "withdraw_routes": 0,
+        "curation_rewards": 526105,
+        "posting_rewards": 2811975,
+        "proxied_vsf_votes": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "witnesses_voted_for": 3,
+        "last_post": "2018-03-31T12:50:48",
+        "last_root_post": "2018-03-31T12:50:48",
+        "average_bandwidth": "180147218706",
+        "lifetime_bandwidth": "9506997000000",
+        "last_bandwidth_update": "2018-03-31T13:32:30",
+        "average_market_bandwidth": "9480194402",
+        "lifetime_market_bandwidth": "269860000000",
+        "last_market_bandwidth_update": "2018-03-29T23:20:36",
+        "vesting_balance": "0.000 STEEM",
+        "reputation": "23021548752084",
+        "transfer_history": [],
+        "market_history": [],
+        "post_history": [],
+        "vote_history": [],
+        "other_history": [],
+        "witness_votes": [
+            "asbear",
+            "clayop",
+            "jerrybanfield"
+        ],
+        "tags_usage": [],
+        "guest_bloggers": []
+    }
+}
